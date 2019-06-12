@@ -1,0 +1,32 @@
+{
+  "name": "contacts_app_endpoints",
+  "version": "1.0.0",
+  "description": "Creating endpoints for Contacts App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info6150-spring-2019/assignment-8-shetty-shruti.git"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "Contacts",
+    "App"
+  ],
+  "author": "Shruti Shetty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neu-mis-info6150-spring-2019/assignment-8-shetty-shruti/issues"
+  },
+  "homepage": "https://github.com/neu-mis-info6150-spring-2019/assignment-8-shetty-shruti#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.19"
+  }
+}
