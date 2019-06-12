@@ -8,8 +8,8 @@ A RESTful API performing CRUD(Create,Retrieve,Update,Delete) with Node.js, Expre
 4. As a user, I am  able to add a contact by entering the first name, last name, email, and phone number.
 
 ## Installation
-1. Clone the repository `git clone https://github.com/neu-mis-info6150-spring-2019/assignment-8-shetty-shruti`.
-2. Navigate to project directory `cd assignment-8-shetty-shruti-master  `.
+1. Clone the repository `git clone https://github.com/shetty-shruti/restful-crud-api`.
+2. Navigate to project directory `cd restful-crud-api  `.
 3. Run `npm install`.
 
 ## Dependencies
